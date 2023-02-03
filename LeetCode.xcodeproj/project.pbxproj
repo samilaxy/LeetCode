@@ -15,6 +15,7 @@
 		4939DA95298D8AEC00732DF9 /* LeetCodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4939DA94298D8AEC00732DF9 /* LeetCodeUITests.swift */; };
 		4939DA97298D8AEC00732DF9 /* LeetCodeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4939DA96298D8AEC00732DF9 /* LeetCodeUITestsLaunchTests.swift */; };
 		4939DAA4298D8B4200732DF9 /* ValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4939DAA3298D8B4200732DF9 /* ValidParentheses.swift */; };
+		4939DAA8298D97B600732DF9 /* SearchInsertPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4939DAA7298D97B600732DF9 /* SearchInsertPosition.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		4939DA94298D8AEC00732DF9 /* LeetCodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCodeUITests.swift; sourceTree = "<group>"; };
 		4939DA96298D8AEC00732DF9 /* LeetCodeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCodeUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		4939DAA3298D8B4200732DF9 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
+		4939DAA7298D97B600732DF9 /* SearchInsertPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInsertPosition.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				4939DA7B298D8AE600732DF9 /* ContentView.swift */,
 				4939DA7D298D8AEA00732DF9 /* Assets.xcassets */,
 				4939DA7F298D8AEA00732DF9 /* Preview Content */,
+				4939DAA7298D97B600732DF9 /* SearchInsertPosition.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4939DA7C298D8AE600732DF9 /* ContentView.swift in Sources */,
+				4939DAA8298D97B600732DF9 /* SearchInsertPosition.swift in Sources */,
 				4939DAA4298D8B4200732DF9 /* ValidParentheses.swift in Sources */,
 				4939DA7A298D8AE600732DF9 /* LeetCodeApp.swift in Sources */,
 			);
