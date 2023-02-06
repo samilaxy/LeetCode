@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class PalindromeNumber {
     func isPalindrome(_ x: Int) -> Bool {
         return String(x) == String(String(x).reversed())
     }
