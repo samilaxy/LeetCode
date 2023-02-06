@@ -17,6 +17,7 @@
 		4939DAA4298D8B4200732DF9 /* ValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4939DAA3298D8B4200732DF9 /* ValidParentheses.swift */; };
 		4939DAA8298D97B600732DF9 /* SearchInsertPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4939DAA7298D97B600732DF9 /* SearchInsertPosition.swift */; };
 		4939DAAA298D999C00732DF9 /* Remove Duplicates from SortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4939DAA9298D999C00732DF9 /* Remove Duplicates from SortedArrayII.swift */; };
+		4939DAAC2990FA4600732DF9 /* 9. Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4939DAAB2990FA4600732DF9 /* 9. Palindrome Number.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		4939DAA3298D8B4200732DF9 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		4939DAA7298D97B600732DF9 /* SearchInsertPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInsertPosition.swift; sourceTree = "<group>"; };
 		4939DAA9298D999C00732DF9 /* Remove Duplicates from SortedArrayII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove Duplicates from SortedArrayII.swift"; sourceTree = "<group>"; };
+		4939DAAB2990FA4600732DF9 /* 9. Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9. Palindrome Number.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,13 +102,14 @@
 		4939DA78298D8AE600732DF9 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				4939DAA7298D97B600732DF9 /* SearchInsertPosition.swift */,
 				4939DA79298D8AE600732DF9 /* LeetCodeApp.swift */,
+				4939DAA9298D999C00732DF9 /* Remove Duplicates from SortedArrayII.swift */,
 				4939DAA3298D8B4200732DF9 /* ValidParentheses.swift */,
 				4939DA7B298D8AE600732DF9 /* ContentView.swift */,
 				4939DA7D298D8AEA00732DF9 /* Assets.xcassets */,
 				4939DA7F298D8AEA00732DF9 /* Preview Content */,
-				4939DAA7298D97B600732DF9 /* SearchInsertPosition.swift */,
-				4939DAA9298D999C00732DF9 /* Remove Duplicates from SortedArrayII.swift */,
+				4939DAAB2990FA4600732DF9 /* 9. Palindrome Number.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 			files = (
 				4939DA7C298D8AE600732DF9 /* ContentView.swift in Sources */,
 				4939DAA8298D97B600732DF9 /* SearchInsertPosition.swift in Sources */,
+				4939DAAC2990FA4600732DF9 /* 9. Palindrome Number.swift in Sources */,
 				4939DAAA298D999C00732DF9 /* Remove Duplicates from SortedArrayII.swift in Sources */,
 				4939DAA4298D8B4200732DF9 /* ValidParentheses.swift in Sources */,
 				4939DA7A298D8AE600732DF9 /* LeetCodeApp.swift in Sources */,
