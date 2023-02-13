@@ -19,6 +19,7 @@
 		4939DAAA298D999C00732DF9 /* Remove Duplicates from SortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4939DAA9298D999C00732DF9 /* Remove Duplicates from SortedArrayII.swift */; };
 		4939DAAC2990FA4600732DF9 /* 9. Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4939DAAB2990FA4600732DF9 /* 9. Palindrome Number.swift */; };
 		49DF6A99299A3C500047AFA4 /* LetterCombination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DF6A98299A3C500047AFA4 /* LetterCombination.swift */; };
+		49DF6A9B299A3CBB0047AFA4 /* longestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DF6A9A299A3CBB0047AFA4 /* longestCommonPrefix.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		4939DAA9298D999C00732DF9 /* Remove Duplicates from SortedArrayII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove Duplicates from SortedArrayII.swift"; sourceTree = "<group>"; };
 		4939DAAB2990FA4600732DF9 /* 9. Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9. Palindrome Number.swift"; sourceTree = "<group>"; };
 		49DF6A98299A3C500047AFA4 /* LetterCombination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetterCombination.swift; sourceTree = "<group>"; };
+		49DF6A9A299A3CBB0047AFA4 /* longestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = longestCommonPrefix.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 		4939DA78298D8AE600732DF9 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				49DF6A98299A3C500047AFA4 /* LetterCombination.swift */,
 				4939DAAB2990FA4600732DF9 /* 9. Palindrome Number.swift */,
 				4939DAA7298D97B600732DF9 /* SearchInsertPosition.swift */,
 				4939DA79298D8AE600732DF9 /* LeetCodeApp.swift */,
@@ -112,7 +115,7 @@
 				4939DA7B298D8AE600732DF9 /* ContentView.swift */,
 				4939DA7D298D8AEA00732DF9 /* Assets.xcassets */,
 				4939DA7F298D8AEA00732DF9 /* Preview Content */,
-				49DF6A98299A3C500047AFA4 /* LetterCombination.swift */,
+				49DF6A9A299A3CBB0047AFA4 /* longestCommonPrefix.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 				49DF6A99299A3C500047AFA4 /* LetterCombination.swift in Sources */,
 				4939DAA4298D8B4200732DF9 /* ValidParentheses.swift in Sources */,
 				4939DA7A298D8AE600732DF9 /* LeetCodeApp.swift in Sources */,
+				49DF6A9B299A3CBB0047AFA4 /* longestCommonPrefix.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
